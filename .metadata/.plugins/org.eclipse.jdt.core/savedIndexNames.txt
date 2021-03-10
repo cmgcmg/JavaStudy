@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Mingi\workspace\.metadata\.plugins\org.eclipse.jdt.core
-504376574.index
-370407191.index
